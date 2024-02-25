@@ -1,3 +1,54 @@
+# US Housing Analysis
+
+This Python script analyzes US housing data, visualizes population growth, delinquency rates, and performs linear regression on income and GDP, as well as GDP and urban population.
+
+## Installation
+
+Ensure you have the required libraries installed. You can install them using:
+
+pip install numpy pandas matplotlib seaborn scikit-learn
+
+## Clone the repository:
+
+git clone https://github.com/rd-7/U.S.-House-Price-Analysis
+
+## Navigate to the project directory:
+
+cd US-Housing-Analysis
+
+## Run the Python script:
+
+python main.py
+
+## Features
+
+Population growth visualization over the years.
+Delinquency rate analysis with various graphical representations.
+Linear regression on income and GDP.
+Linear regression on GDP and urban population.
+
+## Visualizations
+
+The script produces various visualizations using Matplotlib and Seaborn. Some of the key visualizations include line plots, scatter plots, bar plots, box plots, joint plots, and regression plots.
+
+## Linear Regression
+
+Two linear regression models are implemented:
+
+Linear regression on income and GDP.
+Linear regression on GDP and urban population.
+
+## Data
+
+The script uses a dataset named 'US_House_Price.csv'. Ensure this file is present in the project directory before running the script.
+
+## Author
+
+### Rahul Dave
+rahuldave7795@gmail.com | +919624757795
+
+## Snapshots
+
 ![Figure_11](https://github.com/rd-7/U.S.-House-Price-Analysis/assets/160246982/1e177dca-0d18-4912-92bb-ad1014c92794)
 ![Figure_10](https://github.com/rd-7/U.S.-House-Price-Analysis/assets/160246982/d808e42f-1a9b-405b-8158-1c458b8b40d5)
 ![Figure_9](https://github.com/rd-7/U.S.-House-Price-Analysis/assets/160246982/c5fca448-9af1-4e41-be0a-c088ad70e412)
