@@ -7,6 +7,8 @@ This Python script analyzes US housing data, visualizes population growth, delin
 Ensure you have the required libraries installed. You can install them using:
 
 pip install numpy pandas matplotlib seaborn scikit-learn
+or
+pip install -r requirements.txt
 
 ## Clone the repository:
 
